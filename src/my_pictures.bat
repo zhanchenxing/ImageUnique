@@ -1,0 +1,1 @@
+python make_md5.py --output=J:\MyDocuments\MyPictures.data "J:\MyDocuments\My Pictures"
